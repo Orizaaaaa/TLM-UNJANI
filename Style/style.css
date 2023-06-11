@@ -366,6 +366,10 @@ header {
 
     }
 
+    .navbar {
+        height: 68px;
+    }
+
     .navbar .navbar-brand img {
         width: 45px;
         height: 45px;
