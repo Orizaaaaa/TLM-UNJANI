@@ -365,6 +365,11 @@ header {
 
 
     }
+
+    .navbar .navbar-brand img {
+        width: 45px;
+        height: 45px;
+    }
 }
 
 
